@@ -24,7 +24,9 @@ Este repositório é o **laboratório de investigação** das funcionalidades, A
 
 ## Índice
 
-- [HD Compatibility Matrix v2 — estado atual da adaptação](docs/hd-compatibility-matrix-v2.md)
+- [HD Compatibility Matrix v3 — estado atual da adaptação](docs/hd-compatibility-matrix-v3.md)
+- [HD Compatibility Matrix v3 — CSV estruturado](docs/hd-compatibility-matrix-v3.csv)
+- [HD Compatibility Matrix v2 — histórico da adaptação](docs/hd-compatibility-matrix-v2.md)
 - [HD Compatibility Matrix v2 — CSV estruturado](docs/hd-compatibility-matrix-v2.csv)
 - [Matriz inicial de funcionalidades e interface](docs/matriz-funcionalidades.md)
 - [Protocolo de investigação](docs/protocolo-investigacao.md)
